@@ -36,7 +36,7 @@ export const FAQ = () => {
       <Accordion.Item eventKey="4">
         <Accordion.Header>I don't know how to program, can I still attend?</Accordion.Header>
         <Accordion.Body>
-        Absolutely! Even if you don't know how to code, there are plenty of other games and activities that you can participate in.
+        Absolutely! Even if you don't know how to code, there are plenty of other games and activities that you can participate in. Additioanally, we host workshops to help you learn how to code and our volunteers are more than happy to help you get started!
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="5">

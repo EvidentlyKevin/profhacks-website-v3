@@ -20,7 +20,7 @@ export const About = () => {
               <p>
               ProfHacks is the largest annual event held by the Rowan IEEE Student Branch! 
               It is a 24-hour Hackathon where you can create innovative hardware and software solutions to solve real world problems. 
-              For 2024, the theme is <b>"Island Hack"</b>, so be prepared for different island-based events and activites. 
+              For 2025, the theme is <b>"Casino Hack"</b>, so be prepared for illustrious decor, high stakes hacking, and a night of fun!
               Go solo or with a team and follow the theme, or just build whatever your heart desires! There are a variety of different activities you can do including:
               <br></br><br></br>
               <ul className={styles.activities}>
@@ -33,8 +33,8 @@ export const About = () => {
                     <li>HAVING FUN!!!</li>
                 </ul>
                 <br></br>
-              Last year was ProfHacks 2023, which was the 8th iteration of our annual hackathon. 
-              The theme of the hackathon was "Haunted Hack", which had a series of spooky events and activities involved with it. 
+              Last year was ProfHacks 2024, which was the 9th iteration of our annual hackathon. 
+              The theme of the hackathon was "Island Hack", which had a series of tropicaly themed events and activities imbued with the island spirit. 
               </p>
             </div>
           </li>
