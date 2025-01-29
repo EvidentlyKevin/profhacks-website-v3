@@ -20,48 +20,53 @@ export const Schedule = () => {
           </thead>
           <tbody>
             <tr>
-              <td>9:30 AM</td>
+              <td>8:30 AM</td>
               <td>Doors Open</td>
               <td>ENGR Building</td>
             </tr>
             <tr>
-              <td>12:00 PM</td>
+              <td>10:00 AM</td>
               <td>Opening Ceremony</td>
+              <td>ENGR 321</td>
+            </tr>
+            <tr>
+              <td>10:45 AM</td>
+              <td>Hacking Begins & Team Building Workshop</td>
               <td>ENGR Building</td>
             </tr>
             <tr>
-              <td>12:45 PM</td>
-              <td>Hacking Begins</td>
-              <td>ENGR Building</td>
-            </tr>
-            <tr>
-              <td>1:15 PM</td>
-              <td>Lunch & Team Building</td>
-              <td>ENGR Atrium</td>
-            </tr>
-            <tr>
-              <td>2:00 PM</td>
-              <td>3D Printing Workshop</td>
+              <td>11:00 AM</td>
+              <td>Game Theory Workshop w/ C++</td>
               <td>ENGR 107</td>
             </tr>
             <tr>
-              <td>3:00 PM</td>
-              <td>Mathematica Workshop</td>
-              <td>ENGR 107</td>
-            </tr>
-            <tr>
-              <td>4:00 PM</td>
+              <td>12:00 PM</td>
               <td>Arduino Workshop</td>
               <td>ENGR 107</td>
             </tr>
             <tr>
+              <td>1:15 PM</td>
+              <td>Lunch Is Served</td>
+              <td>ENGR Atrium</td>
+            </tr>
+            <tr>
+              <td>2:00 PM</td>
+              <td>MATLAB Workshop</td>
+              <td>ENGR 107</td>
+            </tr>
+            <tr>
+              <td>4:00 PM</td>
+              <td>Project Presentation & Public Speaking Workshop</td>
+              <td>ENGR 107</td>
+            </tr>
+            <tr>
               <td>6:00 PM</td>
-              <td>Dinner</td>
+              <td>Dinner Time</td>
               <td>ENGR Atrium</td>
             </tr>
             <tr>
               <td>7:00 PM</td>
-              <td>Cup Stacking (Hosted by RAS)</td>
+              <td>Cup Stacking (Presented by  Rowan's Robotics and Automation Society!)</td>
               <td>ENGR Atrium</td>
             </tr>
             <tr>
@@ -71,7 +76,7 @@ export const Schedule = () => {
             </tr>
             <tr>
               <td>11:30 PM</td>
-              <td>Gaming</td>
+              <td>Gaming (Mario Kart, Smash Brothers, and more!)</td>
               <td>ENGR Atrium</td>
             </tr>
           
@@ -102,14 +107,24 @@ export const Schedule = () => {
             <td>ENGR 107</td>
           </tr>
           <tr>
-            <td>12:00 PM</td>
-            <td>Hacking concludes, judging starts</td>
+            <td>10:45 AM</td>
+            <td>Hacking Concludes</td>
             <td>ENGR Building</td>
           </tr>
           <tr>
-            <td>1:30 PM</td>
-            <td>Closing Ceremony & Prizes</td>
+            <td>11:00 AM</td>
+            <td>Judging Begins</td>
             <td>ENGR Building</td>
+          </tr>
+          <tr>
+            <td>12:00 PM</td>
+            <td>Lunch</td>
+            <td>ENGR Atrium</td>
+          </tr>
+          <tr>
+            <td>1:00 PM</td>
+            <td>Closing Ceremony</td>
+            <td>ENGR 321</td>
           </tr>
         </tbody>
       </Table>

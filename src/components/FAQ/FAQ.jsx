@@ -54,9 +54,15 @@ export const FAQ = () => {
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="7">
+        <Accordion.Header>MLH related information</Accordion.Header>
+        <Accordion.Body>
+        ProfHacks has applied to be a Major League Hacking (MLH) Member Event. MLH is an official student hackathon league. This means that we agree to uphold the <a href='https://static.mlh.io/docs/mlh-code-of-conduct.pdf' target="_blank">MLH Code of Conduct</a> and the <a href='https://mlh.io/privacy' target="_blank">MLH Privacy Policy</a>.
+        </Accordion.Body>
+      </Accordion.Item>
+      <Accordion.Item eventKey="8">
         <Accordion.Header>Any other questions?</Accordion.Header>
         <Accordion.Body>
-        Contact us at <a href="mailto:profhacks@rowan.edu">profhacks@rowan.edu</a> for any additional questions, concerns, or feedback.
+        Is there a question you have that is not answered here, contact us at <a href="mailto:profhacks@rowan.edu">profhacks@rowan.edu</a> for any additional questions, concerns, or feedback.
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

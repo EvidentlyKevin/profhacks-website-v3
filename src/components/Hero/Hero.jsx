@@ -24,16 +24,16 @@ export const Hero = () => {
         </h1>
         <br></br>
         <p className={styles.description}>
-        <u>Date:</u> March 23-24, 2024
+        <u>Date:</u> March 29-30, 2025
         <br></br>
         <u>Location:</u> 401 North Campus Drive (ENGR Building)
         </p>
-        <a href='https://docs.google.com/forms/d/e/1FAIpQLSe3HJfoPPmcmg1yitpUBOZODRnbgKf-hdnVA88mb18SbEtUCQ/viewform?vc=0&c=0&w=1&flr=0' target="_blank" className={styles.contactBtn}>
+        <a href='https://docs.google.com/forms/d/e/1FAIpQLSdxZ_OQAaXzoo__Ij3DHmA7Ozn1IuDPNuXzds7Cg0acnNmdjA/viewform?usp=sf_link' target="_blank" className={styles.contactBtn}>
           Register here!
         </a>
       </div>
       <img
-        src={getImageUrl("hero/ProfHacks2024Logo (1).png")}
+        src={getImageUrl("hero/phacks25_logo.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
