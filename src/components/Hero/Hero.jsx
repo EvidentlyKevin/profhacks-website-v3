@@ -32,7 +32,7 @@ export const Hero = () => {
           Register here!
         </a>
       </div>
-      <a href="https://chip-system-git-main-ednamod3s-projects.vercel.app/" target="_blank" >
+      <a id="chip_SystemPortal" href="https://chip-system-git-main-ednamod3s-projects.vercel.app/" target="_blank" >
         <img
           src={getImageUrl("hero/phacks25_logo.png")}
           alt="Hero image of me"
