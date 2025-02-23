@@ -46,9 +46,9 @@
 }
 
 .heroImg {
-  width: 90%;
+  width: 80%;
   z-index: 1;
-  margin-bottom: 61px;
+  margin-bottom: 50px;
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
