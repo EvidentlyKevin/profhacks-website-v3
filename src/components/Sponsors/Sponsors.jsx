@@ -27,7 +27,7 @@ export const Sponsors = () => {
         /></a>
       <a href="https://www.nosu.io/" target="_blank">
         <img
-          src={getImageUrl("sponsors/nosu,io_enhanced.png")}
+          src={getImageUrl("sponsors/nosu_nobackground.png")}
           alt="island"
           className={styles.aboutImage}
         /></a>
