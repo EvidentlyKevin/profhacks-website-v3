@@ -41,7 +41,7 @@ export const Schedule = () => {
             </tr>
             <tr>
               <td>12:00 PM</td>
-              <td>Arduino Workshop</td>
+              <td>Project Presentation & Public Speaking Workshop</td>
               <td>ENGR 107</td>
             </tr>
             <tr>
@@ -56,7 +56,7 @@ export const Schedule = () => {
             </tr>
             <tr>
               <td>4:00 PM</td>
-              <td>Project Presentation & Public Speaking Workshop</td>
+              <td>Arduino Workshop</td>
               <td>ENGR 107</td>
             </tr>
             <tr>
