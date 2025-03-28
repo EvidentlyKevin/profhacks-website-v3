@@ -9,6 +9,7 @@ export const Maps = () => {
         getImageUrl("maps/Virtual Map_1.png"),
         getImageUrl("maps/Virtual Map_2v2.png"),
         getImageUrl("maps/Virtual Map_3v3.png"),
+        
     ];
 
     return (
@@ -26,6 +27,7 @@ export const Maps = () => {
                     <div className={styles.fade}>
                         <img src={slideImages[2]} />
                     </div>
+                   
                 </Slide>
             </div>
         </section>

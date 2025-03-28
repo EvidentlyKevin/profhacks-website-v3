@@ -7,6 +7,7 @@ import { Navbar } from "./components/Navbar/Navbar";
 import { FAQ } from "./components/FAQ/FAQ";
 import { Sponsors } from "./components/Sponsors/Sponsors";
 import { Maps} from "./components/Map/Map";
+import {Parking} from "./components/Parking/Parking";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -17,6 +18,7 @@ function App() {
       <Hero />
       <About />
       <Maps />
+     <Parking />
       <Schedule />
       <Sponsors />
       <FAQ />
