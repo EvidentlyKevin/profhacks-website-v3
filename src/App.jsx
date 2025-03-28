@@ -6,6 +6,8 @@ import { Hero } from './components/Hero/Hero';
 import { Navbar } from "./components/Navbar/Navbar";
 import { FAQ } from "./components/FAQ/FAQ";
 import { Sponsors } from "./components/Sponsors/Sponsors";
+import { Maps} from "./components/Map/Map";
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -14,10 +16,12 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Maps />
       <Schedule />
       <Sponsors />
       <FAQ />
       <Pictures />
+      
       <br></br>
       <center><h4>ProfHacks 2025</h4></center>
     </div>

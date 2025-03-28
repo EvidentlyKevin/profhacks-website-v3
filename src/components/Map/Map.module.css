@@ -1,0 +1,59 @@
+.container {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.575);
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 50px; /* Adjusted top margin for better positioning */
+    z-index: 1;
+    margin-left: 8%;
+    margin-right: 8%;
+    max-width: 100%; /* Make the container responsive */
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px; /* Added margin for spacing between title and slider */
+}
+
+.slide-container {
+    position: relative;
+    max-width: 100%; /* Ensure it takes up the full width */
+    overflow: hidden;
+    padding: 10px;
+    display: flex; /* Enable flexbox for centering */
+    justify-content: center; /* Center the images horizontally */
+    align-items: center; /* Center the images vertically */
+}
+
+.slide-container img {
+    width: 100%; /* Ensure image fills the container */
+    max-height: 100%; /* Prevent images from exceeding the container's height */
+    object-fit: cover; /* This makes sure the image covers the area without distortion */
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    opacity: 0.9;
+}
+
+.slide-container img:hover {
+    transform: scale(1.05);
+    opacity: 1;
+}
+
+/* Media Query for small screens */
+@media screen and (max-width: 830px) {
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .slide-container {
+    height: 300px; /* Adjust height for smaller screens */
+  }
+}

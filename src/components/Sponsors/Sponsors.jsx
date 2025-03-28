@@ -25,7 +25,7 @@ export const Sponsors = () => {
           alt="island"
           className={styles.aboutImage}
         /></a>
-      <a href="hhttps://www.sprint.dev/" target="_blank">
+      <a href="https://www.sprint.dev/" target="_blank">
         <img
           src={getImageUrl("sponsors/sprintlogo.png")}
           alt="island"

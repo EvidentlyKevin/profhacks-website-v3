@@ -70,7 +70,7 @@ export const Schedule = () => {
               <td>ENGR Atrium</td>
             </tr>
             <tr>
-              <td>8:30 PM</td>
+              <td>8:15 PM</td>
               <td>Planetarium Show</td>
               <td>Science Hall</td>
             </tr>
@@ -103,7 +103,7 @@ export const Schedule = () => {
           </tr>
           <tr>
             <td>9:00 AM</td>
-            <td>Git Workshop</td>
+            <td>MLH Github Copilot Workshop</td>
             <td>ENGR 107</td>
           </tr>
           <tr>
